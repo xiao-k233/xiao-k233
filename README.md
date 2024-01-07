@@ -1,5 +1,6 @@
 https://space.bilibili.com/15670987
-
+![Visitor Count](https://profile-counter.glitch.me/xiao-k233/count.svg)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=xiao-k233&show_icons=true&theme=tokyonight)
 # 菜鸡一枚
 ## 会点shell，深入了解linux，Arch Linux爱好者，喜欢v社全家桶，爱玩minecraft，aur包打包/维护者。
 ## C/C++菜鸡，也就奥赛级别。初三
