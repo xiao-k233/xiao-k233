@@ -1,5 +1,4 @@
 https://space.bilibili.com/15670987
-![Visitor Count](https://profile-counter.glitch.me/xiao-k233/count.svg)
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=xiao-k233&show_icons=true&theme=tokyonight)
 # 菜鸡一枚
 ## Arch Linux Geeker，，aur一名普通的Maintainer。
